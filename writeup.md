@@ -2,6 +2,8 @@
 
 ## Writeup 
 
+### Objectives
+
 ---
 
 **Finding Lane Lines on the Road**
@@ -10,12 +12,14 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
 
-
 [//]: # (Image References)
 
 [image1]: ./test_images_output/solidWhiteCurve_edges.jpg "solidWhiteCurve_edges"
+
 [image2]: ./test_images_output/solidWhiteCurve_masked_edges.jpg "solidWhiteCurve_masked_edges"
+
 [image3]: ./test_images_output/solidWhiteCurve_lines_edges.jpg "solidWhiteCurve_lines_edges"
+
 ---
 
 ### 1. The pipeline
